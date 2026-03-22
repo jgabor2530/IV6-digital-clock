@@ -10,4 +10,4 @@ Temperature and Humidity sensor: AM2302
 
 2 button for value change plus or minus direction.
 
-Developed in STM32cube IDE 2.0.0.
+Developed in STM32Cube IDE 2.0.0.
