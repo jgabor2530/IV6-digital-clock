@@ -1,0 +1,13 @@
+../External/Src/DS3231.c:31:16:DS3231_DECtoBCD	16	static
+../External/Src/DS3231.c:24:13:DS3231_ReadData	40	static
+../External/Src/DS3231.c:17:13:DS3231_WriteData	40	static
+../External/Src/DS3231.c:43:6:DS3231_Init	16	static
+../External/Src/DS3231.c:60:6:DS3231_SetTime	40	static
+../External/Src/DS3231.c:76:6:DS3231_GetTime	32	static
+../External/Src/DS3231.c:105:6:DS3231_SetDate	24	static
+../External/Src/DS3231.c:117:6:DS3231_GetDate	24	static
+../External/Src/DS3231.c:130:6:DS3231_SetAlarm1	56	static
+../External/Src/DS3231.c:166:6:DS3231_SetAlarm2	56	static
+../External/Src/DS3231.c:197:6:DS3231_CheckAlarm	16	static
+../External/Src/DS3231.c:212:6:DS3231_ClearAlarm	24	static
+../External/Src/DS3231.c:228:10:DS3231_GetTemp	16	static

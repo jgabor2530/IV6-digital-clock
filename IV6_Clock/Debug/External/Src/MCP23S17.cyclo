@@ -1,0 +1,13 @@
+../External/Src/MCP23S17.c:13:13:MCP23S17_SPI_Write	2
+../External/Src/MCP23S17.c:28:16:MCP23S17_SPI_Read	2
+../External/Src/MCP23S17.c:45:6:MCP23S17_Init	2
+../External/Src/MCP23S17.c:83:6:MCP23S17_PortMode	3
+../External/Src/MCP23S17.c:90:6:MCP23S17_PinMode	5
+../External/Src/MCP23S17.c:107:6:MCP23S17_SetPullUp	5
+../External/Src/MCP23S17.c:124:6:MCP23S17_ConfigInterrupt	7
+../External/Src/MCP23S17.c:165:6:MCP23S17_WritePort	2
+../External/Src/MCP23S17.c:173:6:MCP23S17_WritePin	5
+../External/Src/MCP23S17.c:191:9:MCP23S17_ReadPort	1
+../External/Src/MCP23S17.c:197:15:MCP23S17_ReadPin	1
+../External/Src/MCP23S17.c:204:9:MCP23S17_GetInterruptFlag	1
+../External/Src/MCP23S17.c:209:9:MCP23S17_ClearInterrupt	1

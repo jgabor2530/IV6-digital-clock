@@ -1,0 +1,2 @@
+../External/Src/DHT22.c:21:6:DHT22_Init	8	static
+../External/Src/DHT22.c:26:9:DHT22_Read	32	static,ignoring_inline_asm

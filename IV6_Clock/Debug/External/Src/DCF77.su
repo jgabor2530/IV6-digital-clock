@@ -1,0 +1,2 @@
+../External/Src/DCF77.c:75:6:DCF77_ProcessBuffer	32	static
+../External/Src/DCF77.c:35:6:DCF77_InterruptHandler	24	static

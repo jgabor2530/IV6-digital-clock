@@ -1,0 +1,6 @@
+../External/Src/VFDDisplay.c:13:13:VFD_ShowText	1
+../External/Src/VFDDisplay.c:25:6:VFD_Show	4
+../External/Src/VFDDisplay.c:64:6:VFD_ShowTemp	2
+../External/Src/VFDDisplay.c:76:6:VFD_ShowHum	2
+../External/Src/VFDDisplay.c:86:6:VFD_ShowMainMenu	4
+../External/Src/VFDDisplay.c:93:6:VFD_ShowAlarmStatus	3
